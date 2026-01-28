@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **a MEAN project with PWA functionality**
 
-- 🌱 I'm currently learning **Go and Python**
+- 🌱 I'm currently exploring **Advanced Node.js Design Patterns**
 
 - 👯 I'm looking to collaborate on **open source projects**
 
